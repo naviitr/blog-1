@@ -24,7 +24,7 @@
     * 前端xss防火墙系列文章 by [@ＥtherＤream](https://github.com/zjcqoo)
         * [内联事件拦截](http://fex.baidu.com/blog/2014/06/xss-frontend-firewall-1/)
         * [可疑模块拦截](http://fex.baidu.com/blog/2014/06/xss-frontend-firewall-2/)
-        * [无懈可击的钩子](http://fex.baidu.com/blog/2014/06/xss-frontend-firewall-3/)
+naveen        * [无懈可击的钩子](http://fex.baidu.com/blog/2014/06/xss-frontend-firewall-3/)
         * [天衣无缝的防护](http://fex.baidu.com/blog/2014/06/xss-frontend-firewall-4/)
         * [整装待发](http://fex.baidu.com/blog/2014/06/xss-frontend-firewall-5)
 
